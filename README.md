@@ -6,6 +6,9 @@ BlockShare is a decentralized cloud storage application built using blockchain t
 
 This repository contains the codebase and scripts to deploy and use BlockShare, a decentralized cloud storage system leveraging blockchain for secure image storage and sharing.
 
+## Working and Implementation : 
+https://www.youtube.com/watch?v=wTLWqOCyp3Q
+
 ## Features
 
 - **Blockchain Integration:** Utilizes blockchain for decentralized file storage.
@@ -88,7 +91,6 @@ npx hardhat run --network localhost scripts/deploy.js
 Ensure you have the following prerequisites installed:
 - Node.js
 - Hardhat
-- Ganache CLI or Ganache GUI
 - Metamask (or other Ethereum wallet)
 
 ### Installation
